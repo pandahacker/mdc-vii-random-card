@@ -1,0 +1,18 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+body {
+    background-color: green;
+}
+
+.center {
+    font-size: 7rem;
+    padding: 40% 0%;
+}
+
+.red{
+    color: red;
+}
+
+.black{
+    color: black;
+}
